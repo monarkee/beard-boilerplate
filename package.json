@@ -1,0 +1,22 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "node build.js",
+    "development": "yarn run dev",
+    "watch": "nodemon -e js,json,css --watch beard.json --watch resources/**/* --exec 'node build.js'"
+  },
+  "dependencies": {
+    "autoprefixer": "^7.1.3",
+    "lost": "^8.2.0",
+    "mkdirp": "^0.5.1",
+    "nodemon": "^1.11.0",
+    "postcss-beard-colors": "^0.0.2",
+    "postcss-beard-font-scale": "^0.0.0",
+    "postcss-beard-responsive": "^0.0.1",
+    "postcss-beard-spacing": "^0.0.2",
+    "postcss-copy-class": "^0.0.1",
+    "postcss-custom-media": "^6.0.0",
+    "postcss-import": "^10.0.0",
+    "serve": "^6.0.6"
+  }
+}

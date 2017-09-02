@@ -1,0 +1,51 @@
+{
+    "grid": {
+        "flexbox": "flex",
+        "gutter": "60px"
+    },
+    "breakpoints": {
+        "sm": "(max-width: 599px)",
+        "md": "(min-width: 600px)",
+        "lg": "(min-width: 900px)",
+        "xlg": "(min-width: 1200px)"
+    },
+    "fontScale": {
+        "ft1": "26px",
+        "ft2": "23px",
+        "ft3": "21px",
+        "ft4": "18px",
+        "ft5": "16px",
+        "ft6": "15px",
+        "base": "14px"
+    },
+    "colors": {
+        "w": "#FFF",
+        "b": "#000",
+        "1": "#F2F3D8",
+        "2": "#DF7171",
+        "3": "#F1F4F4",
+        "g0": "#000",
+        "g1": "#111",
+        "g2": "#222",
+        "g3": "#333",
+        "g4": "#444",
+        "g5": "#555",
+        "g6": "#666",
+        "g7": "#777",
+        "g8": "#888",
+        "g9": "#999",
+        "gA": "#AAA",
+        "gB": "#BBB",
+        "gC": "#CCC",
+        "gD": "#DDD",
+        "gE": "#EEE"
+    },
+    "spacingScale": {
+        "0": "0",
+        "1": "1rem",
+        "2": "2rem",
+        "3": "3rem",
+        "4": "4rem",
+        "5": "5rem"
+    }
+}
